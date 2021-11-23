@@ -49,7 +49,7 @@ experience:
     date_end: '2020-06-07'
     description: "Supervisor: Linda Mah"
 
-  - title: Research Assistant
+  - title: Research Assistant I
     company: Baycrest Health Sciences
     company_url: ''
     company_logo: 'baycrest'
@@ -67,7 +67,7 @@ experience:
     date_end: '2018-08-01'
     description: "Industry: CRO in pharmaceutical clinical trials"
 
-  - title: Research Assistant
+  - title: Research Assistant, Co-op
     company: Baycrest Health Sciences
     company_url: ''
     company_logo: 'baycrest'

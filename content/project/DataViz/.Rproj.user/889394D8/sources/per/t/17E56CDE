@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634337021549.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "657995535",
+    "id" : "17E56CDE",
+    "lastKnownWriteTime" : 1635035835,
+    "last_content_update" : 1635036176388,
+    "path" : "~/R/DataViz/dataviz.Rmd",
+    "project_path" : "dataviz.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,8",
+        "docOutlineVisible" : "0",
+        "last_setup_crc32" : "811F99AEcb2bae59",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

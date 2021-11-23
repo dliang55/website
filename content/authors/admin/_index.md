@@ -67,6 +67,6 @@ highlight_name: true
 
 Darren Liang is currently a graduate student in the Masters of Science (M.Sc.) program in psychology at Western University. He works under the supervision of Dr. Stefan Köhler at the {{< staticref "https://kohlermemorylab.org/" "newtab" >}}Memory Lab{{< /staticref>}} working on a project related how patients with depression may interpret the world compared to controls through a narrative paradigm. His research interests include cognitive neuroscience, big data, and how the integration can help us understand the brain better.
 
-His work has varied in academia and industry spanning clinical research, statistics, and experience with various technologies. Working in pharmaceutical clinical trials (Phase I) to applied research (Phase VI), he has worked over the years in various positions using multimodel neuroimaging such as MEG, MRI, EEG, and PET and analyzing data using Python, MATLAB, and R in addition to teaching statistics using JASP and SPSS. 
+His work has varied in academia and industry spanning clinical research, statistics, and experience with various technologies. Working in pharmaceutical clinical trials (Phase I) to academic research, he has worked over the years in various positions using multimodel neuroimaging such as MEG, MRI, EEG, and PET and analyzing data using Python, MATLAB, and R in addition to teaching statistics using JASP and SPSS. 
 
 {{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.

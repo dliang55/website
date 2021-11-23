@@ -27,10 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Code
-    tag: Code
-  - name: Demo
-    tag: Demo
+  - name: PSYCHOL9041A
+    tag: PSYCHOL9041A
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

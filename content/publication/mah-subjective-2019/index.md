@@ -5,7 +5,7 @@ title: "Subjective memory ability correlates with functional connectivity betwee
 subtitle: ""
 summary: ""
 authors: ["Mah, L, Liang, D, Chan, F, Ali, A, Mulder-Heijstra, M, Vandermorris, S, Verhoeff, NPLG, Herrmann, N, & Chen, JJ"]
-tags: []
+tags: ["default mode network", "functional connectivity", "memory functioning questionnaire", "functional magnetic resonance imaging", "subjective cognitive decline"]
 categories: []
 date: 2019-11-23T13:09:15-05:00
 lastmod: 2021-11-23T13:09:15-05:00

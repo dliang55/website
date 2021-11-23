@@ -29,7 +29,7 @@ experience:
     location: London, ON, Canada
     date_start: '2021-09-01'
     date_end: '2021-12-31'
-    description: "*Course:* PSYCHOL 3800F Psychological Statistics Using Computers"
+    description: "PSYCHOL 3800F: Psychological Statistics Using Computers"
         
   - title: Graduate Teaching Assistant
     company: Western University
@@ -38,7 +38,7 @@ experience:
     location: London, ON, Canada
     date_start: '2020-09-01'
     date_end: '2021-04-30'
-    description: "*Course:* PSYCHOL 2800E Research Methods in Psychology"
+    description: "PSYCHOL 2800E: Research Methods in Psychology"
 
   - title: Manager, Laboratory
     company: Baycrest Health Sciences
@@ -47,7 +47,7 @@ experience:
     location: North York, ON, Canada
     date_start: '2019-08-01'
     date_end: '2020-06-07'
-    description: "*Supervisor*: Linda Mah"
+    description: "Supervisor: Linda Mah"
 
   - title: Research Assistant
     company: Baycrest Health Sciences
@@ -56,7 +56,7 @@ experience:
     location: North York, ON, Canada
     date_start: '2018-08-01'
     date_end: '2019-08-01'
-    description: "*Supervisor*: Linda Mah"
+    description: "Supervisor: Linda Mah"
 
   - title: Volunteer Recruiter I, Early Phase
     company: Syneos Health
@@ -65,7 +65,7 @@ experience:
     location: Toronto, ON, Canada
     date_start: '2018-06-01'
     date_end: '2018-08-01'
-    description: "*Industry, CRO in pharmaceutical clinical trials*"
+    description: "Industry: CRO in pharmaceutical clinical trials"
 
   - title: Research Assistant
     company: Baycrest Health Sciences
@@ -74,7 +74,7 @@ experience:
     location: North York, ON, Canada
     date_start: '2016-05-01'
     date_end: '2016-12-31'
-    description: "*Supervisor*: Bernhard Ross"
+    description: "Supervisor: Bernhard Ross"
 
 design:
   columns: '2'

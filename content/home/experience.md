@@ -22,28 +22,59 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Teaching Assistant
+    company: Western University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    company_logo: 'uwo'
+    location: London, ON, Canada
+    date_start: '2021-09-01'
+    date_end: '2021-12-31'
+    description: "*Course:* PSYCHOL 3800F Psychological Statistics Using Computers"
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Teaching Assistant
+    company: Western University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 'uwo'
+    location: London, ON, Canada
+    date_start: '2020-09-01'
+    date_end: '2021-04-30'
+    description: "*Course:* PSYCHOL 2800E Research Methods in Psychology"
+
+  - title: Manager, Laboratory
+    company: Baycrest Health Sciences
+    company_url: ''
+    company_logo: 'baycrest'
+    location: North York, ON, Canada
+    date_start: '2019-08-01'
+    date_end: '2020-06-07'
+    description: "*Supervisor*: Linda Mah"
+
+  - title: Research Assistant
+    company: Baycrest Health Sciences
+    company_url: ''
+    company_logo: 'baycrest'
+    location: North York, ON, Canada
+    date_start: '2018-08-01'
+    date_end: '2019-08-01'
+    description: "*Supervisor*: Linda Mah"
+
+  - title: Volunteer Recruiter I, Early Phase
+    company: Syneos Health
+    company_url: ''
+    company_logo: 'syneos'
+    location: Toronto, ON, Canada
+    date_start: '2018-06-01'
+    date_end: '2018-08-01'
+    description: "*Industry, CRO in pharmaceutical clinical trials*"
+
+  - title: Research Assistant
+    company: Baycrest Health Sciences
+    company_url: ''
+    company_logo: 'baycrest'
+    location: North York, ON, Canada
+    date_start: '2016-05-01'
+    date_end: '2016-12-31'
+    description: "*Supervisor*: Bernhard Ross"
 
 design:
   columns: '2'

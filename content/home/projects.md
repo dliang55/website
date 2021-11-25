@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: PSYCHOL9041A
-    tag: PSYCHOL9041A
+  - name: MATLAB
+    tag: matlab
+  - name: Python
+    tag: python
+  - name: R
+    tag: R
+  - name: Shell
+    tag: shell
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

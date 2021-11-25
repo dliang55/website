@@ -4,7 +4,7 @@
 title: "Prefrontal GABA Levels Correlate with Memory in Older Adults at High Risk for Alzheimer’s Disease"
 subtitle: ""
 summary: ""
-authors: ["Murari, G, Liang, DRS, Ali, A, Chan, F, Mulder-Heijstra, M, Verhoeff, NPLG, Herrmann, N, Chen, JJ and Mah, L"]
+authors: ["Murari, G, Liang, DRS, Ali, A, Chan, F, Mulder-Heijstra, M, Verhoeff, NPLG, Herrmann, N, Chen, JJ, & Mah, L"]
 tags: ["γ-aminobutyric acid", "cognition", "magnetic resonance spectroscopy", "nonverbal memory", "verbal memory"]
 categories: []
 date: 2020-06-08T13:04:25-05:00

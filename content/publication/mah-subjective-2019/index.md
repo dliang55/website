@@ -12,7 +12,7 @@ lastmod: 2021-11-23T13:09:15-05:00
 featured: false
 draft: false
 publication_types: "1"
-publication: "*International Psychgeriatrics*"
+publication: "*International Psychogeriatrics*"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

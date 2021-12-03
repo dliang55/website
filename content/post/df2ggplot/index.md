@@ -44,7 +44,7 @@ url_pdf: "post/df2ggplot/df2ggplot.pdf"
 
 # Purpose
 
-To quickly create a ggplot chart in R using any data object which has rows and columns. This function takes some typical defaults for creating a chart found in the ggplot cheatsheet (https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf) to create a quickly stylized chart. The purpose is to just create a quick graph to visualize your data without thinking too much about the how and why that is to cut down the data management and time it takes organize and create a graph. 
+To quickly create a ggplot chart in R using any data object which has rows and columns. This function takes some typical defaults for creating a chart found in the ggplot cheatsheet (https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf) to create a quickly stylized chart. The purpose is to just create a quick graph to visualize your data without thinking too much about the how and why that is to cut down the data management and time it takes to organize and create a graph. 
 
 NOTE: This function doesn't directly pipe into the ggplot package so there are limited settings which can be adjusted in this function however additional layers can be added as the output object is a ggplot compatible list object. 
 

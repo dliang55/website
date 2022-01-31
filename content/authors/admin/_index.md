@@ -69,4 +69,4 @@ Darren Liang is currently a graduate student in the Masters of Science (M.Sc.) p
 
 His work has varied in academia and industry spanning clinical research, statistics, and experience with various technologies. Working in pharmaceutical clinical trials (Phase I) to academic research, he has worked over the years in various positions using multimodel neuroimaging such as MEG, MRI, EEG, and PET and analyzing data using Python, MATLAB, and R in addition to teaching statistics using JASP and SPSS. 
 
-{{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2022_Jan.pdf" "newtab" >}}CV{{< /staticref >}}.

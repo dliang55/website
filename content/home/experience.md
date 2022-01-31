@@ -27,6 +27,15 @@ experience:
     company_url: ''
     company_logo: 'uwo'
     location: London, ON, Canada
+    date_start: '2022-01-01'
+    date_end: '2022-04-30'
+    description: "PSYCHOL 3800G: Psychological Statistics Using Computers"
+
+  - title: Graduate Teaching Assistant
+    company: Western University
+    company_url: ''
+    company_logo: 'uwo'
+    location: London, ON, Canada
     date_start: '2021-09-01'
     date_end: '2021-12-31'
     description: "PSYCHOL 3800F: Psychological Statistics Using Computers"
@@ -49,7 +58,7 @@ experience:
     date_end: '2020-06-07'
     description: "Supervisor: Linda Mah"
 
-  - title: Research Assistant I
+  - title: Research Assistant
     company: Baycrest Health Sciences
     company_url: ''
     company_logo: 'baycrest'

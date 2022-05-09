@@ -1,18 +1,20 @@
-function output = fd_bids(bids_dir, save)
-% Calculating framewise displacement from fMRIPrep confounds (updated for v20.2.1).
+function output = fd_bids(bids_dir, sav)
+% Edited script for calculating framewise displacement from fMRIPrep
+% confounds (updated for v20.2.1). Rewritten into function format to use
+% for any BIDS compliant folder.
 %
 % BIDS_DIR is a string variable which contains the top level of the BIDS
 % project (folder which contains all the subjects) which this script needs
 % to access to run framewise displacement calculations on.
 %
-% SAVE is a boolean variable which contains the response to export/ save
+% SAV is a boolean variable which contains the response to export/ save
 % the data variables into a .csv file. This argument is optional thus
 % specifying True OR 1 in this argument is the only way to save data as a
 % part of the function else the data will only be loaded into the
 % workspace.
 %
 % Developed by Darren Liang
-% Last updated: 09 MAR 2022
+% Last updated: 09 MAY 2022
 
 cwd = pwd;
 
@@ -56,6 +58,7 @@ for a=1:length(subjects)
         FD_over_12=FD_array>1.2;
         FD_over_15=FD_array>1.5;
         FD_over_2=FD_array>2;
+        max_FD=max(FD_array);
         
         if sum(FD_over_1,1)>0
             Bad_run_1(a,b)=cellstr(file);
@@ -72,16 +75,17 @@ for a=1:length(subjects)
         if sum(FD_over_15,1)>0
             Bad_run_15(a,b)=cellstr(file);
         end
+        bad_FD(a,b)= max_FD;
     end
     
 end
 
 cd(cwd)
-output = Bad_run_1;
+output = {Bad_run_1,Bad_run_11, Bad_run_12,Bad_run_15,Bad_run_2, bad_FD};
 
-if exist('save', 'var') && save == 1
-    fprintf('Saving data to .mat'\n)
-    save([bidsdir filesep 'FD_bad_runs.mat']);
+if exist('sav', 'var') && sav == 1
+    fprintf('Saving data to .mat\n')
+    save(strcat(bids_dir, filesep, 'FD_bad_runs.mat'));
 else
     fprintf('Run which exceeded 1cm loaded into workspace but not saved.\n')
 end

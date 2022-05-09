@@ -3,7 +3,7 @@ title: Framewise Displacement
 summary: "Function to extract confound from fMRIPrep."
 tags:
 - matlab
-date: "2022-03-09T00:00:00Z"
+date: "2022-05-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: /project/AoC2020/week_10.py

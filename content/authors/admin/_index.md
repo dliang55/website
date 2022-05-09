@@ -18,9 +18,9 @@ bio: My research interests include the human brain, big data, and how it works a
 
 # Interests to show in About widget
 interests:
-- Experimental Psychology
-- Cognitive Neuroscience
-- Neuroimaging
+- Experimental Neuropsychology
+- Computational Neuroscience
+- Multimodel Neuroimaging
 
 # Education to show in About widget
 education:
@@ -69,4 +69,4 @@ Darren Liang is currently a graduate student in the Masters of Science (M.Sc.) p
 
 His work has varied in academia and industry spanning clinical research, statistics, and experience with various technologies. Working in pharmaceutical clinical trials (Phase I) to academic research, he has worked over the years in various positions using multimodel neuroimaging such as MEG, MRI, EEG, and PET and analyzing data using Python, MATLAB, and R in addition to teaching statistics using JASP and SPSS. 
 
-{{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2022_Jan.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2022_Apr.pdf" "newtab" >}}CV{{< /staticref >}}.

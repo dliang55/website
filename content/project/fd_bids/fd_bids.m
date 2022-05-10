@@ -42,10 +42,15 @@ for a=1:length(subjects)
     folder = strcat(bids_dir, filesep, s, '/ses-001/func');
     cd(folder{1,:});
     
-    run={'intact' 'scrambled'};
-    for b=1:2
-        r=run(b);
-        filee = strcat(s,'*',r,'*confounds_timeseries.tsv');
+    % generate run types from subject directory using file of interest
+    rundir = dir([folder{1}, filesep, '*confounds_timeseries.tsv']);
+    runs = {rundir.name};
+    
+    % run={'intact' 'scrambled'};
+    
+    for b=1:length(runs)
+        filee = runs(b);
+        %filee = strcat(s,'*',r,'*confounds_timeseries.tsv');
         fileee=dir(filee{1,:});
         file=fileee.name;
         M=tdfread(file);
@@ -58,34 +63,34 @@ for a=1:length(subjects)
         FD_over_12=FD_array>1.2;
         FD_over_15=FD_array>1.5;
         FD_over_2=FD_array>2;
-        max_FD=max(FD_array);
+        FD_max=max(FD_array);
         
         if sum(FD_over_1,1)>0
             Bad_run_1(a,b)=cellstr(file);
         end
-        if sum(FD_over_12,1)>0
-            Bad_run_12(a,b)=cellstr(file);
-        end
         if sum(FD_over_11,1)>0
             Bad_run_11(a,b)=cellstr(file);
         end
-        if sum(FD_over_2,1)>0
-            Bad_run_2(a,b)=cellstr(file);
-        end
+        if sum(FD_over_12,1)>0
+            Bad_run_12(a,b)=cellstr(file);
+        end       
         if sum(FD_over_15,1)>0
             Bad_run_15(a,b)=cellstr(file);
         end
-        bad_FD(a,b)= max_FD;
+         if sum(FD_over_2,1)>0
+            Bad_run_2(a,b)=cellstr(file);
+         end
+         bad_FD(a,b)= FD_max;
     end
     
 end
 
 cd(cwd)
-output = {Bad_run_1,Bad_run_11, Bad_run_12,Bad_run_15,Bad_run_2, bad_FD};
+output = Bad_run_1;
 
 if exist('sav', 'var') && sav == 1
     fprintf('Saving data to .mat\n')
     save(strcat(bids_dir, filesep, 'FD_bad_runs.mat'));
 else
-    fprintf('Run which exceeded 1cm loaded into workspace but not saved.\n')
+    fprintf('Run which exceeded 1mm loaded into workspace but not saved.\n')
 end

@@ -19,4 +19,5 @@ url_code: "/project/fd_bids/fd_bids.m"
 
 ---
 
-Simple script that extracts the framewise displacement variable from fMRIPrep confounds file which can be used with any BIDS compliant directory. Can be modified to extract any column of fMRIPrep confounds.
+Simple script that extracts the framewise displacement variable from fMRIPrep v20.0.1 confounds file which can be used with any BIDS compliant directory. Will take all subjects and all functional run types if fMRIPrep has produced a confound_timeseries.tsv file for. There isn't an agreement on the limit of framewise displacement which should determine exclusion so currently script determines which subject runs exceeds the following framewise displacement values: 1mm, 1.1mm, 1.2mm, 1.5mm, 2mm, and max value but will only output excess of 1mm if save option is not enabled.
+Can be modified to extract any column of fMRIPrep confounds and used as a general value checker.

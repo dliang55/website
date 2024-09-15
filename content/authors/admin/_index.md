@@ -6,12 +6,12 @@ title: Darren R. Liang
 superuser: true
 
 # Role/position/tagline
-role: Candidate, Masters of Science (M.Sc.)
+role: Laboratory Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Western University
-  url: https://www.uwo.ca/
+- name: Centre for Addiction and Mental Health
+  url: https://camh.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the human brain, big data, and how it works all together.
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Candidate, Masters of Science (M.Sc.) in Psychology
+  - course: Masters of Science (M.Sc.) in Psychology
     institution: Western University
     year: 2022
   - course: Honours Bachelors of Science (H.B.Sc.) in Psychology
@@ -65,7 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-Darren Liang is currently a graduate student in the Masters of Science (M.Sc.) program in psychology at Western University. He works under the supervision of Dr. Stefan Köhler at the {{< staticref "https://kohlermemorylab.org/" "newtab" >}}Memory Lab{{< /staticref>}} working on a project related to how patients with depression may interpret the world differently compared to controls through a narrative paradigm. His research interests include cognitive neuroscience, big data, and how the integration can help us understand the brain better.
+Darren Liang is currently a Laboratory Manager at the Centre for Addiction and Mental Health. He works under the supervisor of Dr. Jamie Feusner at the University of Toronto affiliated {{< staticref "https://bbp.lab.utoronto.ca/" "newtab" >}}Brain, Body and Perception Lab{{< /staticref>}} supporting various administrative and research project functions. His research interests include cognitive neuroscience, big data, and how the integration can help us understand the brain better.
 
 His work has varied in academia and industry spanning clinical research, statistics, and experience with various technologies. Working in pharmaceutical clinical trials (Phase I) to academic research, he has worked over the years in various positions using multimodel neuroimaging such as MEG, MRI, EEG, and PET and analyzing data using Python, MATLAB, and R in addition to teaching statistics using JASP and SPSS. 
 

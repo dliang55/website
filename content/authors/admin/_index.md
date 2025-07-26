@@ -6,7 +6,7 @@ title: Darren R. Liang
 superuser: true
 
 # Role/position/tagline
-role: Laboratory Manager
+role: Research Laboratory Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -66,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-Darren Liang is currently a Laboratory Manager at the Centre for Addiction and Mental Health. He works under the supervisor of Dr. Jamie Feusner at the University of Toronto affiliated {{< staticref "https://bbp.lab.utoronto.ca/" "newtab" >}}Brain, Body and Perception Lab{{< /staticref>}} supporting various administrative and research project functions. His research interests include cognitive neuroscience, big data, and how the integration can help us understand the brain better.
+Darren Liang is currently a Research Laboratory Manager at the Centre for Addiction and Mental Health. He works under the supervisor of Dr. Jamie Feusner at the University of Toronto affiliated {{< staticref "https://bbp.lab.utoronto.ca/" "newtab" >}}Brain, Body and Perception Lab{{< /staticref>}} supporting research administration, project management, and advanced data science. His research interests include cognitive neuroscience, big data, and how the integration can help us understand the brain better.
 
 His work has varied in academia and industry spanning clinical research, statistics, and experience with various technologies. Working in pharmaceutical clinical trials (Phase I) to academic research, he has worked over the years in various positions using multimodel neuroimaging such as MEG, MRI, EEG, and PET and analyzing data using Python, MATLAB, and R in addition to teaching statistics using JASP and SPSS. 
 

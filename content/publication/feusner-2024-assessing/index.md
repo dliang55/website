@@ -7,7 +7,7 @@ summary: ""
 authors: ["Feusner, J, Karsan, S, Diaz, J, Liang, D, Master, R, Groe, K, Penn, M, & Cazzato V"]
 tags: ["3D", "Body Size Estimation", "avatars", "digital health"]
 categories: []
-date: 2024-12-1-T13:09:15-05:00
+date: 2024-12-1T13:09:15-05:00
 lastmod: 2024-12-1T13:09:15-05:00
 featured: false
 draft: false

@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: Experienced Canadian research manager in the Greater Toronto Area.
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -147,7 +147,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'VpI7CZMd8UYrwOzO80GhPCeoq8r-yfLP5DINVcPl-so'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:

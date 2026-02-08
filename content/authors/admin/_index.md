@@ -6,12 +6,12 @@ title: Darren R. Liang
 superuser: true
 
 # Role/position/tagline
-role: Research Laboratory Manager
+role: Project Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Centre for Addiction and Mental Health
-  url: https://camh.ca/
+- name: University Health Network
+  url: https://www.uhn.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the human brain, big data, and how it works all together.
@@ -66,8 +66,8 @@ email: ""
 highlight_name: true
 ---
 
-Darren Liang is currently a Research Laboratory Manager at the Centre for Addiction and Mental Health. He works under the supervisor of Dr. Jamie Feusner at the University of Toronto affiliated {{< staticref "https://bbp.lab.utoronto.ca/" "newtab" >}}Brain, Body and Perception Lab{{< /staticref>}} supporting research administration, project management, and advanced data science. His research interests include cognitive neuroscience, big data, and how the integration can help us understand the brain better.
+Darren Liang is currently a Project Manager at the University Health Network working under the supervision of Dr. Kâmil Uludağ at the University of Toronto affiliated {{< staticref "https://brain-to.github.io/" "newtab" >}}BRAIN-To Lab{{< /staticref>}}. He supports research administration, management, and operations while expanding on his research interests and experience in cognitive neuroscience, big data, and how integration can help us better understand the brain.
 
-His work has varied in academia and industry spanning clinical research, statistics, and experience with various technologies. Working in pharmaceutical clinical trials (Phase I) to academic research, he has worked over the years in various positions using multimodel neuroimaging such as MEG, MRI, EEG, and PET and analyzing data using Python, MATLAB, and R in addition to teaching statistics using JASP and SPSS. 
+While his current work is in scientific operations, his background spans from industry to academia, from pharmaceutical clinical trials (Phase I) to academic research. He leverages experience from clinical research, statistics, and various technologies to complement his approach to research management. He has worked over the years in various positions using multimodal neuroimaging such as MEG, MRI, EEG, and PET; analyzing data using Python, MATLAB, and R; in addition to teaching statistics using JASP and SPSS. 
 
-{{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2025_Apr.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2025_Nov.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Project Manager
+    company: University Health Network
+    company_url: ''
+    company_logo: 'uhn'
+    location: Toronto, ON, Canada
+    date_start: '2025-12-01'
+    date_end: ''
+    description: "Supervisor: Kâmil Uludağ"
+    
   - title: Research Laboratory Manager
     company: Centre for Addiction and Mental Health
     company_url: ''
     company_logo: 'camh'
     location: Toronto, ON, Canada
     date_start: '2022-08-22'
-    date_end: ''
+    date_end: '2025-11-28'
     description: "Supervisor: Jamie Feusner"
     
   - title: Graduate Teaching Assistant

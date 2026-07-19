@@ -66,8 +66,8 @@ email: ""
 highlight_name: true
 ---
 
-Darren Liang is currently a Project Manager at the University Health Network working under the supervision of Dr. Kâmil Uludağ at the University of Toronto affiliated {{< staticref "https://brain-to.github.io/" "newtab" >}}BRAIN-To Lab{{< /staticref>}}. He supports research administration, management, and operations while expanding on his research interests and experience in cognitive neuroscience, big data, and how integration can help us better understand the brain.
+Darren Liang is a Project Manager at the University Health Network, working under the supervision of Dr. Kâmil Uludağ at the University of Toronto–affiliated {{< staticref "https://brain-to.github.io/" "newtab" >}}BRAIN-To Lab{{< /staticref>}}. He supports research administration, management, and operations while pursuing his research interests in cognitive neuroscience and big data, and exploring how their integration can improve our understanding of the brain.
 
-While his current work is in scientific operations, his background spans from industry to academia, from pharmaceutical clinical trials (Phase I) to academic research. He leverages experience from clinical research, statistics, and various technologies to complement his approach to research management. He has worked over the years in various positions using multimodal neuroimaging such as MEG, MRI, EEG, and PET; analyzing data using Python, MATLAB, and R; in addition to teaching statistics using JASP and SPSS. 
+While his current work is in scientific operations, his background spans industry and academia, from pharmaceutical clinical trials (Phase I) to academic research. He leverages experience in clinical research, statistics, and various technologies to complement his approach to research management. Over the years, he has worked in various positions using multimodal neuroimaging such as MEG, MRI, EEG, and PET; analyzing data with Python, MATLAB, and R; and teaching statistics using JASP and SPSS.
 
 {{< icon name="download" pack="fas" >}} To learn more, download my {{< staticref "uploads/CV_Liang_Darren_2025_Nov.pdf" "newtab" >}}CV{{< /staticref >}}.
